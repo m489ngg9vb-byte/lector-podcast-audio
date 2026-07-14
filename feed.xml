@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Lector Podcast Personal</title>
+    <link>https://m489ngg9vb-byte.github.io/lector-podcast-audio/feed.xml</link>
+    <description>PDFs convertidos a audio con voz en español</description>
+    <atom:link href="https://m489ngg9vb-byte.github.io/lector-podcast-audio/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 14 Jul 2026 11:23:55 +0000</lastBuildDate>
+    <itunes:author>Ander</itunes:author>
+    <itunes:block>yes</itunes:block>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>PDFs convertidos a audio con voz en español</itunes:summary>
+    <item>
+      <title>prueba</title>
+      <description>prueba</description>
+      <guid isPermaLink="false">https://m489ngg9vb-byte.github.io/lector-podcast-audio/prueba.mp3</guid>
+      <enclosure url="https://m489ngg9vb-byte.github.io/lector-podcast-audio/prueba.mp3" length="912045" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jul 2026 10:52:38 +0000</pubDate>
+      <itunes:duration>0:01:53</itunes:duration>
+    </item>
+    <item>
+      <title>Liderazgo positivo</title>
+      <description>Liderazgo positivo</description>
+      <guid isPermaLink="false">https://m489ngg9vb-byte.github.io/lector-podcast-audio/Liderazgo_positivo_1717614465.mp3</guid>
+      <enclosure url="https://m489ngg9vb-byte.github.io/lector-podcast-audio/Liderazgo_positivo_1717614465.mp3" length="5969709" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jul 2026 10:52:28 +0000</pubDate>
+      <itunes:duration>0:12:26</itunes:duration>
+    </item>
+  </channel>
+</rss>
